@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Pixies-app/static/css/main.f4bed07f.chunk.css",
+    "main.js": "/Pixies-app/static/js/main.c6fc51d1.chunk.js",
+    "main.js.map": "/Pixies-app/static/js/main.c6fc51d1.chunk.js.map",
+    "runtime-main.js": "/Pixies-app/static/js/runtime-main.5e7bbf9a.js",
+    "runtime-main.js.map": "/Pixies-app/static/js/runtime-main.5e7bbf9a.js.map",
+    "static/js/2.9cae0857.chunk.js": "/Pixies-app/static/js/2.9cae0857.chunk.js",
+    "static/js/2.9cae0857.chunk.js.map": "/Pixies-app/static/js/2.9cae0857.chunk.js.map",
+    "index.html": "/Pixies-app/index.html",
+    "static/css/main.f4bed07f.chunk.css.map": "/Pixies-app/static/css/main.f4bed07f.chunk.css.map",
+    "static/js/2.9cae0857.chunk.js.LICENSE.txt": "/Pixies-app/static/js/2.9cae0857.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e7bbf9a.js",
+    "static/js/2.9cae0857.chunk.js",
+    "static/css/main.f4bed07f.chunk.css",
+    "static/js/main.c6fc51d1.chunk.js"
+  ]
+}

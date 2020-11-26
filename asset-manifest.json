@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Pixies-app/static/css/main.f4bed07f.chunk.css",
-    "main.js": "/Pixies-app/static/js/main.c6fc51d1.chunk.js",
-    "main.js.map": "/Pixies-app/static/js/main.c6fc51d1.chunk.js.map",
-    "runtime-main.js": "/Pixies-app/static/js/runtime-main.5e7bbf9a.js",
-    "runtime-main.js.map": "/Pixies-app/static/js/runtime-main.5e7bbf9a.js.map",
-    "static/js/2.9cae0857.chunk.js": "/Pixies-app/static/js/2.9cae0857.chunk.js",
-    "static/js/2.9cae0857.chunk.js.map": "/Pixies-app/static/js/2.9cae0857.chunk.js.map",
-    "index.html": "/Pixies-app/index.html",
-    "static/css/main.f4bed07f.chunk.css.map": "/Pixies-app/static/css/main.f4bed07f.chunk.css.map",
-    "static/js/2.9cae0857.chunk.js.LICENSE.txt": "/Pixies-app/static/js/2.9cae0857.chunk.js.LICENSE.txt"
+    "main.css": "/FrankNjoroge/Pixies-app.git/static/css/main.f4bed07f.chunk.css",
+    "main.js": "/FrankNjoroge/Pixies-app.git/static/js/main.c6fc51d1.chunk.js",
+    "main.js.map": "/FrankNjoroge/Pixies-app.git/static/js/main.c6fc51d1.chunk.js.map",
+    "runtime-main.js": "/FrankNjoroge/Pixies-app.git/static/js/runtime-main.7cf015bd.js",
+    "runtime-main.js.map": "/FrankNjoroge/Pixies-app.git/static/js/runtime-main.7cf015bd.js.map",
+    "static/js/2.9cae0857.chunk.js": "/FrankNjoroge/Pixies-app.git/static/js/2.9cae0857.chunk.js",
+    "static/js/2.9cae0857.chunk.js.map": "/FrankNjoroge/Pixies-app.git/static/js/2.9cae0857.chunk.js.map",
+    "index.html": "/FrankNjoroge/Pixies-app.git/index.html",
+    "static/css/main.f4bed07f.chunk.css.map": "/FrankNjoroge/Pixies-app.git/static/css/main.f4bed07f.chunk.css.map",
+    "static/js/2.9cae0857.chunk.js.LICENSE.txt": "/FrankNjoroge/Pixies-app.git/static/js/2.9cae0857.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e7bbf9a.js",
+    "static/js/runtime-main.7cf015bd.js",
     "static/js/2.9cae0857.chunk.js",
     "static/css/main.f4bed07f.chunk.css",
     "static/js/main.c6fc51d1.chunk.js"

@@ -20,7 +20,7 @@ class App extends React.Component {
         return (
             <div className="ui container" style={{marginTop:'15px'}}>
                 <h1>Pixies app</h1> 
-                <SearchBar onSubmit={this.onSearchSubmit} />
+                <SearchBar onSearchSubmit={this.onSearchSubmit} />
                 <ImageList images={this.state.images} />
             </div>
         )
